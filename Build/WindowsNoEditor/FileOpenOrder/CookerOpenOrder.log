@@ -1,0 +1,567 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/DinoHablando.uasset" 1
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/PiliHablando.uasset" 2
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/RositaHablando.uasset" 3
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/WariHablando.uasset" 4
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/TipDino.uasset" 5
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/TipPili.uasset" 6
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/TipRosita.uasset" 7
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/TipWari.uasset" 8
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Hablando.uasset" 9
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Tuto1.uasset" 10
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tutorial/ControlesPrimarios.uasset" 11
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Tuto2.uasset" 12
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tutorial/ControlesSecundarios.uasset" 13
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Personajes/DinoTuto.uasset" 14
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Personajes/RositaBP.uasset" 15
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Personajes/WariBP.uasset" 16
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/EcuSpeed.uasset" 17
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/MenuPrincipal.uasset" 18
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Reanudar.uasset" 19
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/bubble.uasset" 20
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/bubble4.uasset" 21
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Pausa.uasset" 22
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Personajes/PiliBP.uasset" 23
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SoundClass.uasset" 24
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Music.uasset" 25
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Costa.uasset" 26
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Fuentes/Comic_Kings.uasset" 27
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Fuentes/Comic_Kings_Font.uasset" 28
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Galapagos/GalapagosMinimap.uasset" 29
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Galapagos/GalapagosMinimapa.uasset" 30
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/DELFPIXEL.uasset" 31
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/Delfina.uasset" 32
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/LEOPIXEL.uasset" 33
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/Jaguar.uasset" 34
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/enemyTexture.uasset" 35
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/PCPlayer.uasset" 36
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/PCPlayer2.uasset" 37
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/PCPlayer3.uasset" 38
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/PINGPIXEL.uasset" 39
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/Pinguina.uasset" 40
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/RANPIXEL.uasset" 41
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/ReferenciaPersonajes/Rana.uasset" 42
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/cocos.uasset" 43
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/supervelocidad.uasset" 44
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/MinimapGalapagos.uasset" 45
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/Dino.uasset" 46
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/Pili.uasset" 47
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/Rosita.uasset" 48
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/Wari.uasset" 49
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Siguiente.uasset" 50
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/bubble3.uasset" 51
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/DinoSelected.uasset" 52
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/PiliSelected.uasset" 53
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/RositaSelected.uasset" 54
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Personajes/WariSeected.uasset" 55
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/coco_solo.uasset" 56
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Fondo_SP.uasset" 57
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/primer_lugar.uasset" 58
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/segundo_lugar.uasset" 59
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/tercer_lugar.uasset" 60
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Premiacion.uasset" 61
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Puntuacion.uasset" 62
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/Iniciadores/GalapagosIniciador.uasset" 63
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Oriente.uasset" 64
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Orinete/OrienteMinimap.uasset" 65
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Orinete/MatOrienteUI.uasset" 66
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/MinimapOriente2.uasset" 67
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/Iniciadores/OrienteIniciador.uasset" 68
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Sierra.uasset" 69
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Sierra/SierraMinimap.uasset" 70
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Sierra/SierraUI.uasset" 71
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/MinimapSierra.uasset" 72
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/Iniciadores/SierraIniciador.uasset" 73
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Costa/CostaMinimap.uasset" 74
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGPS/Costa/CostaMateriaMapa.uasset" 75
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/MinimapCosta.uasset" 76
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/rastreadorAI.uasset" 77
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP12.uasset" 78
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP11.uasset" 79
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP10.uasset" 80
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP9.uasset" 81
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP8.uasset" 82
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP7.uasset" 83
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP6.uasset" 84
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP5.uasset" 85
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP4.uasset" 86
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP3.uasset" 87
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP2.uasset" 88
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SonidoDino.uasset" 89
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SonidoFail.uasset" 90
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SonidoPili.uasset" 91
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SonidoRosita.uasset" 92
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SonidoWari.uasset" 93
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Victoria.uasset" 94
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/tip1.uasset" 95
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Tip2.uasset" 96
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Tip3.uasset" 97
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/tip4.uasset" 98
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/NewLap.uasset" 99
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tips.uasset" 100
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/CP1.uasset" 101
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Delfina/Mat_Color.uasset" 102
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Delfina/Mat.uasset" 103
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Delfina/DelfinaStatic.uasset" 104
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Jaguar/Mat_Color_0.uasset" 105
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Jaguar/Mat.uasset" 106
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Jaguar/JaguarStatic.uasset" 107
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Pinguina/Mat_Color.uasset" 108
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Pinguina/Mat.uasset" 109
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/Pinguina/PinguinaStatic.uasset" 110
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/RanaStatic/Mat_1_Color.uasset" 111
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/RanaStatic/Mat_1.uasset" 112
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MallasPersonajes/RanaStatic/RanaStatic.uasset" 113
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/TexturaCarroJaguar.uasset" 114
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroJaguarMat.uasset" 115
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/Cobertura12.uasset" 116
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/Cube_1Surface_Color.uasset" 117
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroRanaMat.uasset" 118
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CoberturaDino.uasset" 119
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/TexDino.uasset" 120
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroPiliMat.uasset" 121
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CoberturaPinguina.uasset" 122
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/TexRositaSurface_Color.uasset" 123
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroDelfinMat.uasset" 124
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CoberturaRosita.uasset" 125
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/Burbuja.uasset" 126
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Bubble2.uasset" 127
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/BurbujasParticulas.uasset" 128
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/BotBP.uasset" 129
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/InstanciaJuego.uasset" 130
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/SphereSurface_Color.uasset" 131
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Sphere_1.uasset" 132
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/coco.uasset" 133
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Golpe.uasset" 134
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Golpe_Cue.uasset" 135
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Proyectil/ProyectilBP.uasset" 136
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Personajes/DinoBP.uasset" 137
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/Iniciadores/CostaIniciador.uasset" 138
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/CostaIniciador.uasset" 139
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/GalapagosIniciador.uasset" 140
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/OrienteIniciador.uasset" 141
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/SierraIniciador.uasset" 142
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/TestSpline.uasset" 143
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Material.uasset" 144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 145
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 146
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 147
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 148
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Palmera1.uasset" 149
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Palmera2.uasset" 150
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/VasijaTexDifuso.uasset" 151
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Vasija.uasset" 152
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Vasija.uasset" 153
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Vasija_fbm/VasijaTexDifuso.uasset" 154
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroChasisEjesCorrectosEscalado_Skeleton.uasset" 155
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/AnimFinal.uasset" 156
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Llantas.uasset" 157
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Metal.uasset" 158
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroChasisEjesCorrectosEscalado_PhysicsAsset.uasset" 159
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/CarroChasisEjesCorrectosEscalado.uasset" 160
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/TireConfig/Front.uasset" 161
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/TireConfig/Rear.uasset" 162
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/CarroPartes/Volante/VolanteOrigen.uasset" 163
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Roca2Difuso.uasset" 164
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Normal/Roca2Normal.uasset" 165
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Roca_3.uasset" 166
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Sphere.uasset" 167
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/Bubbles_T.uasset" 168
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/Burbuja2_T.uasset" 169
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Cesped3Difuso.uasset" 170
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/CespedDifuso.uasset" 171
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/CespedHojas2Difuso.uasset" 172
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/CespedHojasDifuso.uasset" 173
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/CubeSurface_Color.uasset" 174
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/EscudoEcuador.uasset" 175
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasCarros/Nueva_carpeta__2_Surface_Color.uasset" 176
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Fondo.uasset" 177
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/HighresScreenshot00000.uasset" 178
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/NormalBG.uasset" 179
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/cocoLanzando.uasset" 180
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/cocoLanzando_Cue.uasset" 181
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Lap.uasset" 182
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Risa.uasset" 183
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Risa_Cue.uasset" 184
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/superVelocidad.uasset" 185
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/superVelocidad_Cue.uasset" 186
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 187
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 188
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 189
+"../../../Engine/Content/BasicShapes/Cone.uasset" 190
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 191
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 192
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 193
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 194
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 195
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 196
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 197
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 198
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 199
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 200
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 201
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 202
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 203
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 204
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 205
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 206
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 207
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 208
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 209
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 210
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 211
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 212
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 213
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 214
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 215
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 216
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 217
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 218
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 219
+"../../../Engine/Content/EditorResources/S_Note.uasset" 220
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 221
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 222
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 223
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 224
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 225
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 226
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 227
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 228
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 229
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 230
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 231
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 232
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 233
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 234
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 235
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 237
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 238
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 239
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 240
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 241
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 242
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 243
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 244
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 245
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 246
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 247
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 248
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 249
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 250
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 251
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 252
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 253
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 254
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 255
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 256
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 259
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 260
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 261
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 262
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 264
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 265
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 266
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 267
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 268
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 269
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 270
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 271
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 273
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 274
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 275
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 276
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 277
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 278
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 279
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 280
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 281
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 282
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 283
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 284
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 285
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 286
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 287
+"../../../Engine/Content/EngineResources/Black.uasset" 288
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 289
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 290
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 291
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 292
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 293
+"../../../Engine/Content/EngineSounds/Master.uasset" 294
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 296
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 297
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 298
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 299
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 300
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 317
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 318
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 319
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 320
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 321
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 322
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 323
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 324
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 325
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 331
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 333
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 334
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 335
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 336
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 337
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 338
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 339
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 340
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 341
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 342
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Plugins/FMODStudio/Content/AnimNotify_FMODPlayEvent.uasset" 343
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 344
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 350
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 351
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 352
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/CharacterSplinePath.uasset" 353
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 354
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 355
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 356
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 357
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 358
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 359
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 360
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 361
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 362
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/SuperVelocidad.uasset" 363
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/TipConSonido.uasset" 364
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/GameModeBP.uasset" 365
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/LapTracker/LapManager.uasset" 366
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaCosta_sharedassets/Arena_LayerInfo.uasset" 367
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaCosta_sharedassets/ArenaMojada_LayerInfo.uasset" 368
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaCosta_sharedassets/Cesped_LayerInfo.uasset" 369
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaCosta_sharedassets/Roca2_LayerInfo.uasset" 370
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaCosta_BuiltData.uasset" 371
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Sprites/Arbol4.uasset" 372
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Arbol4Mat.uasset" 373
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/ElementosPista/TexturaInicio.uasset" 374
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/InicioCarrera.uasset" 375
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/MaderaDifuse.uasset" 376
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Normal/MaderaNormal.uasset" 377
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/MaderTronco.uasset" 378
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/ArenaDifuso.uasset" 379
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/ArenaMojadaDifuso.uasset" 380
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Cesped2Difuso.uasset" 381
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Roca3Difuso.uasset" 382
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Terreno_Playa.uasset" 383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 384
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 387
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 388
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 391
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/DeriveNormalZ_Function.uasset" 392
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/T_Caustics.uasset" 393
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/water_new_height.uasset" 394
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/MarSuperficie.uasset" 395
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/MarSuperficie_Inst.uasset" 396
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 397
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/WariLetrero3dSurface_Color.uasset" 398
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/WariLetrero3d.uasset" 399
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/LetreroWari.uasset" 400
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MedioDisco.uasset" 401
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Plane_1Surface_Color.uasset" 402
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Plane.uasset" 403
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/META.uasset" 404
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/NormalSurface_Color.uasset" 405
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Normal.uasset" 406
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/NormalFlecha.uasset" 407
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/StickSurface_Color.uasset" 408
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Stick.uasset" 409
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Palito.uasset" 410
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/CubeSurface_Color.uasset" 411
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/CubeAmbient_Occlusion.uasset" 412
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Cube.uasset" 413
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/pared.uasset" 414
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Plano.uasset" 415
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Roca.uasset" 416
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Roca.uasset" 417
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Tronco.uasset" 418
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaCosta.umap" 419
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_sharedassets/Arena_LayerInfo.uasset" 420
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_sharedassets/ArenaMojada_LayerInfo.uasset" 421
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_sharedassets/Cesped_LayerInfo.uasset" 422
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_sharedassets/Roca2_LayerInfo.uasset" 423
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_sharedassets/RocaNegra_LayerInfo.uasset" 424
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_sharedassets/RocaRoja_LayerInfo.uasset" 425
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos_BuiltData.uasset" 426
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/water_nrm.uasset" 427
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/ScreenDistortion.uasset" 428
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/RocaNegraDifuso.uasset" 429
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/RocaRojaDifuso.uasset" 430
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/TerrenoGalapagos.uasset" 431
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/AguaGalapagos.uasset" 432
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/AguaGaInst.uasset" 433
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/AbajoSurface_Color.uasset" 434
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Abajo.uasset" 435
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/AbajoFlecha.uasset" 436
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/ArribaSurface_Color.uasset" 437
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Arriba.uasset" 438
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/ArribaFlecha.uasset" 439
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/PiliLetrero3DSurface_Color.uasset" 440
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/PiliLetrero3D.uasset" 441
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/LetreroPili.uasset" 442
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/RocaNegra.uasset" 443
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Roca_2.uasset" 444
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaGalapagos.umap" 445
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Proyectil/RocasProyectil.uasset" 446
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/MyDisparadorRocas.uasset" 447
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaSierra_sharedassets/Cesped1_LayerInfo.uasset" 448
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaSierra_sharedassets/Roca1_LayerInfo.uasset" 449
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaSierra_sharedassets/Roca2_LayerInfo.uasset" 450
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaSierra_sharedassets/RocaGris_LayerInfo.uasset" 451
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaSierra_BuiltData.uasset" 452
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Sprites/Arbol1.uasset" 453
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Arbol1Mat.uasset" 454
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Sprites/Arbol5.uasset" 455
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Arboll5.uasset" 456
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Barandas.uasset" 457
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Normal/RocaNormal.uasset" 458
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/CaraDiablo.uasset" 459
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Roca_2.uasset" 460
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Roca4Difuso.uasset" 461
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/RocaDifuso.uasset" 462
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/TerrenoSierra.uasset" 463
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/baranda1.uasset" 464
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/baranda2.uasset" 465
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Branda1Colider.uasset" 466
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Branda2Colider.uasset" 467
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Material_001.uasset" 468
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/diablloTndapi.uasset" 469
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/DinoLetrero3DSurface_Color.uasset" 470
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/DinoLetrero3D.uasset" 471
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/LetreroDino.uasset" 472
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Tunel2.uasset" 473
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/MapaSierra.umap" 474
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/NivelVacio_BuiltData.uasset" 475
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/configuracion.uasset" 476
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Creditosbt.uasset" 477
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Jugar.uasset" 478
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Portada.uasset" 479
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Salir.uasset" 480
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Tutorial.uasset" 481
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/bubble2.uasset" 482
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/SonidoMenuPrincipal.uasset" 483
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Creditos.uasset" 484
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Personajes_2.uasset" 485
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Creditos.uasset" 486
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/alta.uasset" 487
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/altaSelec.uasset" 488
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/baja.uasset" 489
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/bajaSelec.uasset" 490
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/conf_fondo.uasset" 491
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/cong_graficos.uasset" 492
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/media.uasset" 493
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/mediaSelec.uasset" 494
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/musicOFF.uasset" 495
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/musicON.uasset" 496
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/ultra.uasset" 497
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/ultraSellec.uasset" 498
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/Click.uasset" 499
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/MasterMuteMix.uasset" 500
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/SoundFXs/MasterNormalMix.uasset" 501
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Opciones.uasset" 502
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/Atras.uasset" 503
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/DELLFIN_ROSADO.uasset" 504
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/JAGUAR.uasset" 505
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/PINGUINOGALAPAGOS.uasset" 506
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/RANACOHETE.uasset" 507
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/VACIO.uasset" 508
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/SeleccionPersonaje.uasset" 509
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/OBJETIVO.uasset" 510
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/INSTRUCCIONES.uasset" 511
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/HABILIDADES.uasset" 512
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/TexturasUI/IMPORTANTE.uasset" 513
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tutorial/IMPORTANTE.uasset" 514
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tutorial/HABILIDADES.uasset" 515
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tutorial/INSTRUCCIONES.uasset" 516
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/Tutorial/OBJETIVO.uasset" 517
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/UI/MenuPrincipal.uasset" 518
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/NivelVacio.umap" 519
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Premiacion.umap" 520
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/PruebaCurvas_sharedassets/Cesped1_LayerInfo.uasset" 521
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/PruebaCurvas_sharedassets/Roca1_LayerInfo.uasset" 522
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/PruebaCurvas_sharedassets/Roca2_LayerInfo.uasset" 523
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/PruebaCurvas_BuiltData.uasset" 524
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/AguaSuperficie.uasset" 525
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Sprites/Arbol2.uasset" 526
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Arbol2Mat.uasset" 527
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Sprites/Arbol3.uasset" 528
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Arbol3Mat.uasset" 529
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Terreno.uasset" 530
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/VerdeNormal.uasset" 531
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Agua/T_Rock_Basalt_N.uasset" 532
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Causticas.uasset" 533
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Causticas_Inst.uasset" 534
+"../../../Engine/Content/BasicShapes/Plane.uasset" 535
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Morado.uasset" 536
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Jacinto.uasset" 537
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Lechuguines.uasset" 538
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/RositaLetrero3DSurface_Color.uasset" 539
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/RositaLetrero3D.uasset" 540
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/LetreroRosita.uasset" 541
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/Puente.uasset" 542
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/PruebaCurvas.umap" 543
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/ControladorAITutoBPBP.uasset" 544
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/BotTutoBP.uasset" 545
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/AIBPs/CharacterSplinePath_2.uasset" 546
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/TutorialColliders/Instrucciones1.uasset" 547
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/TutorialColliders/LimpiadorViewport.uasset" 548
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Tutorial_BuiltData.uasset" 549
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/EscudoEcuador2.uasset" 550
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/EscudoEcuador.uasset" 551
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/ObstaculoMat.uasset" 552
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 553
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/caracol.uasset" 554
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Cylinder_1Surface_Color.uasset" 555
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Cylinder.uasset" 556
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MapaTutorial_Cylinder.uasset" 557
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/TubeSurface_Color.uasset" 558
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Tube.uasset" 559
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/MapaTutorial_Tube_1.uasset" 560
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Texturas/Landscapes/Difuse/Capsule_5Surface_Color.uasset" 561
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Materiales/Capsule.uasset" 562
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Assets/ParedMapa.uasset" 563
+"../../../../../Users/admin.christian/Documents/Unreal Projects/CarroByChris/Content/Tutorial.umap" 564
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 565
+"../../../Engine/Content/Maps/Entry.umap" 566
